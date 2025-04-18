@@ -1,4 +1,4 @@
-import Hero from './components/hero'
+import Hero from './components/Hero'
 import Navbar from './components/ui/Navbar'
 import ComoFunciona from './components/ComoFunciona'
 import Quincena from './components/Quincena'
