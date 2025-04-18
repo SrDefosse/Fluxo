@@ -10,32 +10,24 @@ const BasicFAQ = () => {
         <h3 className="mb-4 text-center text-3xl font-semibold">
           Frequently asked questions
         </h3>
-        <Question title="Why is the sky blue?" defaultOpen>
+        <Question title="¿Puedo usar FLUXO si mi empresa no lo ha dado de alta?" defaultOpen>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque
-            laboriosam neque reprehenderit saepe eius dolorum vel consequuntur
-            perspiciatis ad vero.
+          No. Por el momento FLUXO solo está disponible para los empleados de empresas dadas de alta, pero no te preocupes, dar de alta a tu empresa es muy fácil y rápido. Contáctanos por WhatsApp y nosotros nos encargamos.
           </p>
         </Question>
-        <Question title="Why did the chicken cross the road?">
+        <Question title="¿Puedo adelantar si estoy en buró de crédito?">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque
-            laboriosam neque reprehenderit saepe eius dolorum vel consequuntur
-            perspiciatis ad vero.
+          Si. Nosotros no checamos tu historial crediticio. Si tu empresa está dada de alta, puedes pedir tu adelanto de nómina en cualquier momento y se descontará al final de tu quincena/semana para no endeudarte.
           </p>
         </Question>
-        <Question title="How many licks does it take to get to the center of a tootsie pop?">
+        <Question title="¿Tiene costo usar la app FLUXO?">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque
-            laboriosam neque reprehenderit saepe eius dolorum vel consequuntur
-            perspiciatis ad vero.
+          No. Usar FLUXO es 100% gratuito y libre de intereses al pedir tu adelanto. Nosotros solo cobramos un fee fijo por transacción que ronda alrededor de los $55 pesos mexicanos dependiendo del monto adelantado.
           </p>
         </Question>
-        <Question title="Where's Waldo?">
+        <Question title="¿Cómo puedo usar FLUXO?">
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque
-            laboriosam neque reprehenderit saepe eius dolorum vel consequuntur
-            perspiciatis ad vero.
+          Para usar FLUXO, primero debes descargar la app desde el Play Store o App Store. Una vez instalada, inicia sesión con tu correo electrónico y contraseña. Si no tienes una cuenta, puedes crear una nueva desde la app.
           </p>
         </Question>
       </div>

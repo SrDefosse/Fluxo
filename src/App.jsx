@@ -5,7 +5,6 @@ import Quincena from './components/Quincena'
 import UsaFluxo from './components/UsaFluxo'
 import Beneficios from './components/Beneficios'
 import FAQ from './components/FAQ'
-import TimelineDemo from './components/TimelineDemo'
 
 function App() {
   return (
@@ -29,9 +28,6 @@ function App() {
         </div>
         <div className="flex justify-center items-center min-h-screen">
           <FAQ/>
-        </div>
-        <div className="flex justify-center items-center min-h-screen">
-          <TimelineDemo/>
         </div>
       </main>
     </>
